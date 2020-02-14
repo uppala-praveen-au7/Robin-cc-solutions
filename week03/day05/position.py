@@ -11,12 +11,12 @@ If not, return the index where it would be if it were inserted in order.
 
 def locate_me(arr, number):
 
-    #if the number present in the array
+    #if the number present in the array than this will get executed
     if number in arr:
         return arr.index(number)
 
     else:
-    #if number is not present in the array
+    #if number is not present in the array than this part will executed
         for i in arr:
             if number < i:
                 return arr.index(i)
@@ -24,5 +24,5 @@ def locate_me(arr, number):
             return len(arr)
 
 List = [1,3,5,6]
-pos = locate_me(List, 0)
+pos = locate_me(List, 7)
 print(pos)
