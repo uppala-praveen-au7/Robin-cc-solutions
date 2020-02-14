@@ -11,9 +11,12 @@ If not, return the index where it would be if it were inserted in order.
 
 def locate_me(arr, number):
 
+    #if the number present in the array
     if number in arr:
         return arr.index(number)
+
     else:
+    #if number is not present in the array
         for i in arr:
             if number < i:
                 return arr.index(i)
