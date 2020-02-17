@@ -1,0 +1,3 @@
+Which is faster to initialize lists?
+https://www.geeksforgeeks.org/python-which-is-faster-to-initialize-lists/
+
