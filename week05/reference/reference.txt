@@ -1,0 +1,16 @@
+CODING CHALLENGES
+
+Day01
+Time complexity of merge sort : https://www.youtube.com/watch?v=g1AwUYauqgg
+
+Day03 
+counting inversion explained : https://www.youtube.com/watch?v=k9RQh21KrH8
+
+Day04
+Pairwise swap elements of a given linked list : https://www.youtube.com/watch?v=bN8nk4ZXzK0
+Python: Sorting a Linked List : https://www.youtube.com/watch?v=Xk0Tgh1AbfE
+Reverse a linked list : https://www.youtube.com/watch?v=D7y_hoT_YZI
+
+Day05
+Rotate Doubly linked list by N nodes : https://www.youtube.com/watch?v=tWtq2nd7sI4
+Insertion Sort for Doubly Linked List : https://www.youtube.com/watch?v=tC75jsIM_IQ
